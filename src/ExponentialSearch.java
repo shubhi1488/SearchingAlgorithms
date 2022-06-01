@@ -2,7 +2,7 @@ import java.util.Arrays;
 /*
 Exponential search have time complexity as O(logn) and it works in two strps-
 a) find range where element is present.
-b) do binary search in above found range....
+b) do binary search in above found range........
  */
 public class ExponentialSearch {
     static int search(int arr[],int n,int x){
